@@ -3,4 +3,4 @@ in process was used:
 * HTML 5
 * CSS 3
 * JS
-  *(*This website was created by me to introduce the Basenji dog breed.*)
+  * (*This website was created by me to introduce the Basenji dog breed.*)
