@@ -1,1 +1,1 @@
-# This page about one breed Basenji
+# This page about one breed - Basenji
