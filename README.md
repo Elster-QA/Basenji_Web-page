@@ -5,4 +5,4 @@ in process was used:
 * CSS 3
 * JS
 
-_*this website was created by me to introduce the Basenji dog breed._ 
+_ *this website was created by me to introduce the Basenji dog breed. _ 
