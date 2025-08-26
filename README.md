@@ -1,4 +1,4 @@
-# Page about one breed - [Basenji]([url](https://elster-qa.github.io/Basenji_Web-page/))
+# Page about one breed - [Basenji](https://elster-qa.github.io/Basenji_Web-page/)
 
 in process was used:
 * HTML 5
